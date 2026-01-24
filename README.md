@@ -46,7 +46,7 @@ My current focus is on developing **Universal-Authentication-Backend** and a new
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=kursat-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kursat-dev&show_icons=true&theme=tokyonight&hide_border=true" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kursat-dev&layout=compact&theme=tokyonight&hide_border=true" />
 
@@ -83,4 +83,5 @@ My current focus is on developing **Universal-Authentication-Backend** and a new
   [![GitHub followers](https://img.shields.io/github/followers/kursat-urensu?style=social)](https://github.com/kursat-dev)
 
 </div>
+
 
