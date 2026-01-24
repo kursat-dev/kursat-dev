@@ -80,8 +80,9 @@ My current focus is on developing **Universal-Authentication-Backend** and a new
 
   <br/>
 
-  [![GitHub followers](https://img.shields.io/github/followers/kursat-urensu?style=social)](https://github.com/kursat-dev)
+  [![GitHub followers](https://img.shields.io/github/followers/kursat-dev?style=social)](https://github.com/kursat-dev)
 
 </div>
+
 
 
