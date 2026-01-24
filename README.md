@@ -46,9 +46,9 @@ My current focus is on developing **Universal-Authentication-Backend** and a new
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=kursat-urensu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kursat-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kursat-urensu&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kursat-dev&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -56,7 +56,7 @@ My current focus is on developing **Universal-Authentication-Backend** and a new
 
 ## 📈 Contribution & Activity Monitoring
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kursat-urensu&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kursat-dev&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 
 ---
 
@@ -70,7 +70,7 @@ My current focus is on developing **Universal-Authentication-Backend** and a new
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=kursat-urensu&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=kursat-dev&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
 
   <br/>
 
@@ -80,6 +80,7 @@ My current focus is on developing **Universal-Authentication-Backend** and a new
 
   <br/>
 
-  [![GitHub followers](https://img.shields.io/github/followers/kursat-urensu?style=social)](https://github.com/kursat-urensu)
+  [![GitHub followers](https://img.shields.io/github/followers/kursat-urensu?style=social)](https://github.com/kursat-dev)
 
 </div>
+
