@@ -64,7 +64,7 @@ My current focus is on developing **Universal-Authentication-Backend** and a new
 
   <i>“I build systems that automate the present and secure the future.”</i>  
   <br/>
-  — <strong>Kürşat Ürensu</strong>
+  — <strong>Kürşat Ürensü</strong>
 
   <br/>
 
