@@ -42,6 +42,25 @@ My current focus is on developing **Universal-Authentication-Backend** and a new
 
 ---
 
+## 📊 Live Engineering Signals
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=kursat-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kursat-dev&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+
+## 📈 Contribution & Activity Monitoring
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kursat-dev&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+
+---
+
 ## 📬 Contact
 
 - 💼 **LinkedIn:** [kursat-urensu](https://www.linkedin.com/in/kursat-urensu/)
