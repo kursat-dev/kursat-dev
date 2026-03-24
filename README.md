@@ -40,14 +40,6 @@ My current focus is on developing **Universal-Authentication-Backend** and a new
 - **Production Mindset:** Building systems that are maintainable, measurable, and reliable.
 - **Clean & Typed:** Leveraging TypeScript and Prisma for type-safe, self-documenting codebases.
 
-
----
-
-
-## 📈 Contribution & Activity Monitoring
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kursat-dev&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-
 ---
 
 ## 📬 Contact
