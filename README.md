@@ -35,8 +35,8 @@ My current focus is on developing **Universal-Authentication-Backend** and a new
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kalkisim-taha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kalkisim-taha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kursat-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kursat-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 
 ---
 
