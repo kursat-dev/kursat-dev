@@ -1,67 +1,73 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2600&pause=900&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+K%C3%BCr%C5%9Fat+%F0%9F%91%8B%3BBackend+Developer%3BCybersecurity+Enthusiast%3BBuilding+WorkFlow+Automation+Systems&v=1" />
-</p>
+# Kürşat Ürensü
 
-<p align="center">
-  <i>11th Grade Student at Robotekno Koleji • Software Developer • Cybersecurity Analyst in training • Automation & Workflow Specialist</i>
-</p>
+**Software Developer · AI & Full-Stack**
 
-<br/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,react,next,express,postgres,mongodb,sqlite,git,prisma&perline=6" />
-</p>
+I build real products end to end — full-stack systems, backend architecture, real-time communication and AI-powered features. Most of my work is in TypeScript across Next.js, NestJS and Node.js, and I spend most of my time on system design, integrations and B2B APIs.
 
 ---
 
-## 🧠 About Me
+## Projects
 
-I’m an **11th Grade Student** at **Robotekno Koleji**, balancing my academic life with a deep passion for **active software development** and **cybersecurity research**.
+### YÖN — Investment Readiness & Matching Platform
 
-I specialize in building robust backend architectures and highly efficient automation systems. My journey is driven by curiosity—I don't just use technology; I strive to understand its vulnerabilities and potential for optimization.
+An investment technology platform that evaluates how ready a startup is to raise, prioritises the gaps holding it back, and matches it with investors whose criteria actually fit — showing each match criterion by criterion rather than as an opaque score. The investor side turns the same evaluation into a filtered deal flow.
 
-My current focus is on developing **Universal-Authentication-Backend** and a new-gen automation system called **Workflows Automations**.
+**Tech:** React · TypeScript · Vite
 
----
-
-## 🎯 Core Focus
-
-- 🤖 **Automation & Workflows:** Building advanced n8n pipelines and intelligent systems.
-- 🔐 **Security-First Backend:** Designing production-grade, secure authentication and API systems.
-- 🛡️ **Cybersecurity:** Actively learning vulnerability research and reconnaissance (Projects: VulnLab & ReconX).
-- 🧩 **Scalable Architectures:** Utilizing TypeScript, Node.js, and modern databases for resilient products.
+[Live demo](https://yon-dev.vercel.app/) · [Case study](https://github.com/kursat-dev/case-study-yon) · Source: Private repository
 
 ---
 
-## 🛠 Engineering Principles
+### ZMeet — Real-Time Communication Platform
 
-- **Security by Design:** Security isn't an afterthought; it's the foundation of every line of code.
-- **Automation First:** If it's repetitive, it should be automated.
-- **Production Mindset:** Building systems that are maintainable, measurable, and reliable.
-- **Clean & Typed:** Leveraging TypeScript and Prisma for type-safe, self-documenting codebases.
+A video meeting and chat platform I designed and built, now being extended into meeting infrastructure that other products integrate through an API rather than a destination users visit. The DentalPrices integration is complete — a partner backend creates a consultation through ZMeet's API and participants join via signed, time-gated links without a ZMeet account.
 
----
+AI-powered meeting summaries, live language translation, and a B2B API covering meetings, chat, webinars and live streaming are in active development, heading toward a subscription-based B2B infrastructure product.
 
-## 📬 Contact
+**Tech:** Next.js · TypeScript · Node.js · MongoDB · Socket.IO · Stream.io · JWT · n8n
 
-- 💼 **LinkedIn:** [kursat-urensu](https://www.linkedin.com/in/kursat-urensu/)
-- 📷 **Instagram:** [@kursat.dev](https://www.instagram.com/kursat.dev)
-- 📧 **Email:** [urensukursat@gmail.com](mailto:urensukursat@gmail.com)
+[Case study](https://github.com/kursat-dev/case-study-zmeet) · Source: Private repository
 
 ---
 
-<div align="center">
+### ZMovie — Film Festival Management & Streaming Platform
 
-  <img src="https://komarev.com/ghpvc/?username=kursat-dev&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+A full-stack platform bringing film submission, evaluation, content management and festival operations into one system, built around an explicit submission lifecycle, background video processing and a provider-agnostic AI layer. Being developed for film festival processes for the Ministry of Culture and Tourism.
 
-  <br/>
+**Tech:** Next.js · NestJS · TypeScript · PostgreSQL · Prisma · Redis · BullMQ · Socket.IO · FFmpeg · Docker · Meilisearch · Stripe
 
-  <i>“I build systems that automate the present and secure the future.”</i>  
-  <br/>
-  — <strong>Kürşat Ürensü</strong>
+[Case study](https://github.com/kursat-dev/case-study-zmovie) · Source: Private repository
 
-  <br/>
+---
 
-  [![GitHub followers](https://img.shields.io/github/followers/kursat-dev?style=social)](https://github.com/kursat-dev)
+## Experience
 
-</div>
+**Junior Developer — DentalPrices** *(current)*
+
+Frontend and backend development, integration development and debugging. I built the ZMeet × DentalPrices integration on both sides of the wire.
+
+ZMeet is my own product, which I continue to develop independently.
+
+---
+
+## Tech Stack
+
+**Languages** — TypeScript · JavaScript · Python · C · C++
+
+**Frontend** — React · Next.js · Tailwind CSS
+
+**Backend** — Node.js · NestJS · Express · REST APIs · Socket.IO
+
+**Data** — PostgreSQL · MongoDB · MySQL · Prisma
+
+**Infrastructure** — Docker · Redis · BullMQ · AWS · S3-compatible storage · Vercel · Render
+
+**AI & Automation** — LLM APIs · AI pipelines · n8n · Prompt engineering
+
+**Tools** — Git · Linux · Postman · FFmpeg · Meilisearch · Stripe
+
+---
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/kursat-urensu/) · [Email](mailto:urensukursat@gmail.com) · [GitHub](https://github.com/kursat-dev)
