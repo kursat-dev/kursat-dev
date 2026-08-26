@@ -26,7 +26,7 @@ AI-powered meeting summaries, live language translation, and a B2B API covering 
 
 **Tech:** Next.js · TypeScript · Node.js · MongoDB · Socket.IO · Stream.io · JWT · n8n
 
-[Case study](https://github.com/kursat-dev/case-study-zmeet) · Source: Private repository
+[Live demo](https://www.zmeet.com.tr) · [Case study](https://github.com/kursat-dev/case-study-zmeet) · Source: Private repository
 
 ---
 
