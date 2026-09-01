@@ -70,4 +70,4 @@ ZMeet is my own product, which I continue to develop independently.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/kursat-urensu/) · [Email](mailto:urensukursat@gmail.com) · [GitHub](https://github.com/kursat-dev)
+[LinkedIn](https://www.linkedin.com/in/kursat-urensu/) · [Email](mailto:urensukursat@gmail.com) · [GitHub](https://github.com/kursat-dev) · [Portfolio](https://kursat-urensu.vercel.app/)
