@@ -8,9 +8,9 @@ I build real products end to end — full-stack systems, backend architecture, r
 
 ## Projects
 
-### YÖN — Investment Readiness & Matching Platform
+### YÖN — Funding Readiness Platform
 
-An investment technology platform that evaluates how ready a startup is to raise, prioritises the gaps holding it back, and matches it with investors whose criteria actually fit — showing each match criterion by criterion rather than as an opaque score. The investor side turns the same evaluation into a filtered deal flow.
+YÖN is a founder-first platform designed to help startups clarify their path to funding. It evaluates the startup's current state, identifies critical gaps, helps determine the most relevant financing path, and turns those gaps into a personalised action plan for funding readiness.
 
 **Tech:** React · TypeScript · Vite
 
