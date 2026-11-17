@@ -14,7 +14,7 @@ YÖN is a founder-first platform designed to help startups clarify their path to
 
 **Tech:** React · TypeScript · Vite
 
-[Live demo](https://yon-dev.vercel.app/) · [Case study](https://github.com/kursat-dev/case-study-yon) · Source: Private repository
+[Live demo](https://yonturkiye.com) · [Case study](https://github.com/kursat-dev/case-study-yon) · Source: Private repository
 
 ---
 
